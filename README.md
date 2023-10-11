@@ -1,2 +1,2 @@
-# XAI
+# Explainable AI
 Implementing XAI
